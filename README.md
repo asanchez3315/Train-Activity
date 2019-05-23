@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [See it live](# See it live)
+* [See it live](#See-it-live)
 * [Status](#status)
 * [Contact](#contact)
 
