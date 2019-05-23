@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Live](#live)
+* [See it live](#live)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -14,7 +14,7 @@
 It's Choo Choo time! This application is a simple down to scale app that registers trains and their schedules in real time. All you do is input the information and it registers to a database I created.  
 
 ## Screenshots
-[Example screenshot](./img/train-activity.png)
+![Example screenshot](./img/train-activity.png)
 
 ## Technologies
 * JavaScript 
@@ -24,12 +24,9 @@ It's Choo Choo time! This application is a simple down to scale app that registe
 * Fire base database
 * Github pages for deployment
 
-## Live
+## See it live
 
 https://asanchez3315.github.io/Train-Activity/
-
-
-
 
 
 ## Status
